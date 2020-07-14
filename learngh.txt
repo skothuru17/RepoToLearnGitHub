@@ -9,3 +9,4 @@ offer
 me.
 Just wowza.!! 
 I also want to learn python!!
+do you know sql?
